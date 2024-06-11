@@ -3,4 +3,4 @@
 
 Hello! - I am a jr developer, improving new skills with technologies and frameworks, I am interested in development, moderation, working with projects aimed at evolution, and agility.
 
-[![My Skills](https://skillicons.dev/icons?i=react,materialui,mysql,nestjs,postgres,py,js,ts,docker,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,materialui,mysql,nestjs,postgres,py,cs,js,ts,docker,git,github)](https://skillicons.dev)
