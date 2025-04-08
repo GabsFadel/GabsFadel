@@ -36,7 +36,7 @@ I'm a **junior back-end developer** focused on building reliable and efficient a
 ### 📫 Let's connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/alfred-gabriel-ribeiro-fadel-developer/)
-- 📫 Email: gabsfadelrfg@email.com
+- 📫 Email: gabsfadelrfg@gmail.com
 
 ---
 
