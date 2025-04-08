@@ -15,15 +15,25 @@ I'm a **junior back-end developer** focused on building reliable and efficient a
 
 ---
 
-### 🧠 What I enjoy working with:
+### 🧠 Tech Stack:
 
 [![My Skills](https://skillicons.dev/icons?i=react,materialui,mysql,nestjs,postgres,py,cs,dotnet,js,nodejs,express,ts,docker,git,github)](https://skillicons.dev)
 
 ---
 
-### 📈 Let's grow together!
+### 📊 GitHub Stats
 
-If you're building something cool, want to collaborate, or just chat tech — feel free to connect:
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabsFadel&show_icons=true&theme=tokyonight&border_radius=10&hide_title=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabsFadel&layout=compact&theme=tokyonight&border_radius=10)
+
+</div>
+
+---
+
+### 📫 Let's connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/alfred-gabriel-ribeiro-fadel-developer/)
 - 📫 Email: gabsfadelrfg@email.com
